@@ -1,0 +1,20 @@
+ body {
+  background: pink;
+ }
+
+ img {
+  width: 12rem;
+ }
+ .container {
+  background: rgb(221, 58, 58);
+  width: 50%;
+  margin: auto;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+ }
+ .container:hover {
+  background: white;
+  cursor: pointer;
+  color: red;
+ }
